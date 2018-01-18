@@ -1,0 +1,6 @@
+c:\users\орунбаевас\documents\visual studio 2017\Projects\LinqToSql\LinqToSql\bin\Debug\LinqToSql.exe.config
+c:\users\орунбаевас\documents\visual studio 2017\Projects\LinqToSql\LinqToSql\bin\Debug\LinqToSql.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\LinqToSql\LinqToSql\bin\Debug\LinqToSql.pdb
+c:\users\орунбаевас\documents\visual studio 2017\Projects\LinqToSql\LinqToSql\obj\Debug\LinqToSql.csprojResolveAssemblyReference.cache
+c:\users\орунбаевас\documents\visual studio 2017\Projects\LinqToSql\LinqToSql\obj\Debug\LinqToSql.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\LinqToSql\LinqToSql\obj\Debug\LinqToSql.pdb
